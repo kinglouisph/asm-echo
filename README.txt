@@ -1,7 +1,7 @@
 very simple 64 bit assembly program for linux that takes an input from STDIN
 and prints it back to STDOUT.
 
-Also a great axample of a buffer overlow vulnerability, simply enter 20 chars
+Also a great example of a buffer overflow vulnerability, simply enter 20 chars
 and a command, like so:
 
 wordswordswordswordsls

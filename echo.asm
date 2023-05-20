@@ -26,4 +26,6 @@ start:
 	syscall
 	
 segment readable writable
-hello:	db "                    ", 10
+hello:	
+	rb 20
+	db 10
